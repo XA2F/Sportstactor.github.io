@@ -1,1 +1,65 @@
+body {
+  background-color:	#87CEEB;
+}
+
+h1 {
+  color: white;
+  text-align: left;
+}
+
+p {
+  font-family:'Brush Script MT', cursive ;
+  font-size: 20px;
+}
+
+
+*{
+    height:1vh;
+    margin: -1;
+    padding: 2;
+    font-family: Century Gothic
+}
+
+header{
+    background-image: url(1.jpg);
+    height: 90vh;
+    background-size: cover;
+    backgground-position: center;
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid #FFF;
+    transition: 0.6s ease;
+}
+
+ul li a:hover{
+    background-color: #FFF;
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
+
 
